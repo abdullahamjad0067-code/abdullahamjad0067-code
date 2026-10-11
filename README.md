@@ -1,171 +1,171 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F7A72E&height=220&section=header&text=Abdullah%20Amjad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/abdullahamjad0067-code">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F7A72E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%2B+FastAPI+Enthusiast;Exploring+AI+%26+Machine+Learning;Building+Mealora+-+A+Recipe+Finder+App;Open+to+Collaboration+and+Opportunities" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,45:111C33,100:F5A623&height=240&section=header&text=Abdullah%20Amjad&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT&descSize=14&descAlignY=60&descColor=CBD5E1&animation=fadeIn" width="100%" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abdullah-amjad-6869bb227/">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=F7A72E" />
-</a>
-<a href="mailto:abdullahamjad0067@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=F7A72E" />
-</a>
-<a href="https://mealorarecipie.netlify.app">
-  <img src="https://img.shields.io/badge/Mealora%20Live-0F172A?style=for-the-badge&logo=vercel&logoColor=F7A72E" />
-</a>
-<a href="https://github.com/abdullahamjad0067-code">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F7A72E" />
-</a>
-
-</div>
-
-<br/>
-
-## About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="320"/>
-
-I am a **Software Engineering** student at the **University of Sargodha**, holding a CGPA of **3.69**, passionate about building modern web applications and continuously expanding my expertise in **Artificial Intelligence** and **Machine Learning**.
-
-My interest in software development grew through core courses including Programming Fundamentals, Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Computer Networks, and Database Systems — subjects that strengthened my problem-solving ability and pushed me toward **Full Stack Development**.
-
-Currently, I build responsive and scalable web applications using **React**, **FastAPI**, **JavaScript**, **Python**, **SQL**, and modern frontend technologies, while actively learning AI/ML to design intelligent software solutions.
-
-I also enjoy exploring **automation**, **web scraping**, and productivity-focused development workflows using modern AI coding tools — always keeping the final product secure, maintainable, and reliable.
-
-I earned a **merit-based scholarship** during my Intermediate studies and have maintained a strong, consistent academic record ever since.
-
-I believe in continuous learning, collaboration, and solving real-world problems through technology.
-
-**Technical Interests**
-`Full Stack Development`  `Artificial Intelligence`  `Machine Learning`  `Backend Development`  `Automation`  `Software Engineering`
-
-<br/>
-
-## Featured Project
-
-<div align="center">
-
-<a href="https://mealorarecipie.netlify.app">
-  <img src="https://img.shields.io/badge/Mealora-Recipe%20Finder%20Web%20App-0F172A?style=for-the-badge&logo=react&logoColor=F7A72E"/>
-</a>
-
-**Mealora** — an independently built recipe finder web app with 1,000+ recipes, an SEO-driven growth strategy, and a roadmap that includes an AI chatbot, ingredient-based recipe querying, and automatic portion scaling.
-
-[**Visit Mealora →**](https://mealorarecipie.netlify.app)
-
-</div>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,js,cpp,dart,php&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,figma&theme=dark" />
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite&theme=dark" />
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ps&theme=dark" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Web & Backend**
-- React.js
-- FastAPI
-- HTML5 & CSS3
-- JavaScript
-- PHP
-- REST APIs
-- Bootstrap & Tailwind CSS
-
-</td>
-<td valign="top" width="50%">
-
-**Data & Tools**
-- PostgreSQL, MySQL, SQLite
-- Python, NumPy
-- Beautiful Soup (Web Scraping)
-- Tkinter
-- Git & GitHub
-- Figma, Adobe Photoshop
-- C++, Dart
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`Teamwork`  `Problem Solving`  `Communication`  `Leadership`
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahamjad0067-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=F7A72E&icon_color=F7A72E&text_color=E2E8F0" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamjad0067-code&theme=tokyonight&hide_border=true&background=0F172A&ring=F7A72E&fire=F7A72E&currStreakLabel=F7A72E" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad0067-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=F7A72E&text_color=E2E8F0" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahamjad0067-code&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" width="48%"/>
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abdullahamjad0067-code/abdullahamjad0067-code/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake animation"/>
-
-<sub>Animation renders automatically once the snake workflow (below) runs on this repo</sub>
-
-</div>
-
-<br/>
-
-## Let's Connect
-
-<div align="center">
-
-I'm always open to connecting with developers, recruiters, and professionals who share a passion for technology and innovation.
-
-<a href="https://www.linkedin.com/in/abdullah-amjad-6869bb227/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=F7A72E" />
-</a>
-<a href="mailto:abdullahamjad0067@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20Hello-0F172A?style=for-the-badge&logo=gmail&logoColor=F7A72E" />
-</a>
+<a href="https://abdullahamjadcode.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-F5A623?style=for-the-badge&logo=googlechrome&logoColor=080D1A" /></a>
+<a href="https://github.com/abdullahamjad0067-code"><img src="https://img.shields.io/badge/GITHUB-111C33?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/abdullah-amjad-6869bb227/"><img src="https://img.shields.io/badge/LINKEDIN-111C33?style=for-the-badge&logo=linkedin&logoColor=F5A623" /></a>
+<a href="mailto:abdullahamjad0067@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111C33?style=for-the-badge&logo=gmail&logoColor=F5A623" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdullahamjad0067-code&style=for-the-badge&color=F7A72E&label=Profile+Views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=F5A623&center=true&vCenter=true&width=650&lines=Building+useful+things+with+code.;React+%2B+FastAPI+%2B+Python;Exploring+Artificial+Intelligence+%26+ML;Turning+ideas+into+working+products." alt="Developer introduction" />
+
+<br/>
+
+**Software Engineering Student @ University of Sargodha**
+
+CGPA **3.69** &nbsp; · &nbsp; BSSE 2023–2027 &nbsp; · &nbsp; Pakistan
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A72E,100:0F172A&height=120&section=footer" width="100%"/>
+---
+
+## `01` / About Me
+
+I'm a Software Engineering student who enjoys building web applications, working with APIs, and solving practical problems through code.
+
+My current focus is **full-stack development with React and FastAPI**, while building my foundations in Artificial Intelligence and Machine Learning.
+
+- 🎓 Studying Software Engineering at the University of Sargodha.
+- 💻 Building responsive interfaces and backend services.
+- 🧠 Exploring AI, ML, data analysis, and automation.
+- 🔐 Interested in secure, maintainable software.
+- 🛠️ Working on personal projects to turn ideas into usable products.
+
+> I care about understanding how things work, writing better code, and building projects that solve real problems.
+
+## `02` / Featured Projects
+
+<div align="center">
+
+<a href="https://abdullahamjadcode.netlify.app/">
+<img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-Explore%20My%20Work-F5A623?style=for-the-badge&logo=googlechrome&logoColor=080D1A" />
+</a>
+
+<br/>
+
+**My Portfolio Website**
+
+My personal space for presenting my projects, technical skills, and work as a developer.
+
+<a href="https://abdullahamjadcode.netlify.app/">**Visit Portfolio ↗**</a>
+
+<br/><br/>
+
+<a href="https://mealorarecipie.netlify.app/">
+<img src="https://img.shields.io/badge/MEALORA-Recipe%20Finder-111C33?style=for-the-badge&logo=react&logoColor=F5A623" />
+</a>
+
+<br/>
+
+**Mealora | Recipe Finder Web App**
+
+An independently built recipe discovery application featuring 1,000+ recipes, with plans for ingredient-based search, an AI chatbot, and automatic portion scaling.
+
+<a href="https://mealorarecipie.netlify.app/">**Explore Mealora ↗**</a>
+
+</div>
+
+## `03` / Tech Stack
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,dart,php&theme=dark" alt="Python, JavaScript, C++, Dart and PHP" />
+
+**FRONTEND DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,figma&theme=dark" alt="React, HTML, CSS, Tailwind, Bootstrap and Figma" />
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite&theme=dark" alt="FastAPI, PostgreSQL, MySQL and SQLite" />
+
+**DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,photoshop&theme=dark" alt="Git, GitHub, VS Code, Postman and Photoshop" />
+
+</div>
+
+<details>
+<summary><strong>More about my technical skills</strong></summary>
+
+<br/>
+
+| Area | Technologies |
+|---|---|
+| Frontend | React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| Backend | FastAPI, Python, PHP, REST APIs |
+| Databases | PostgreSQL, MySQL, SQLite, SQL |
+| Data & Automation | NumPy, Beautiful Soup, web scraping, automation |
+| Other | C++, Dart, Tkinter, Git, GitHub, Figma, Photoshop |
+
+</details>
+
+## `04` / GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/abdullahamjad0067-code">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad0067-code&show_icons=true&hide_border=true&bg_color=080D1A&title_color=F5A623&icon_color=F5A623&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/abdullahamjad0067-code">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad0067-code&layout=compact&hide_border=true&bg_color=080D1A&title_color=F5A623&text_color=CBD5E1" alt="Most used programming languages" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamjad0067-code&hide_border=true&background=080D1A&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=CBD5E1&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahamjad0067-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub achievements" />
+
+</div>
+
+## `05` / Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abdullahamjad0067-code/abdullahamjad0067-code/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+
+</div>
+
+## `06` / Beyond the Code
+
+<div align="center">
+
+`Problem Solving` &nbsp; `Software Design` &nbsp; `AI / ML`
+
+`Continuous Learning` &nbsp; `Teamwork` &nbsp; `Automation`
+
+</div>
+
+## `07` / Let's Connect
+
+<div align="center">
+
+I'm open to connecting with developers, collaborating on interesting projects, and exploring software engineering and AI opportunities.
+
+<br/>
+
+<a href="https://abdullahamjadcode.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-F5A623?style=for-the-badge&logo=googlechrome&logoColor=080D1A" /></a>
+<a href="https://www.linkedin.com/in/abdullah-amjad-6869bb227/"><img src="https://img.shields.io/badge/LINKEDIN-111C33?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
+<a href="mailto:abdullahamjad0067@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111C33?style=for-the-badge&logo=gmail&logoColor=F5A623" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdullahamjad0067-code&style=flat-square&color=F5A623&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,100:080D1A&height=100&section=footer" width="100%" />
+
+<sub>BUILD WITH PURPOSE. LEARN EVERY DAY. KEEP SHIPPING.</sub>
+
+</div>
